@@ -11,27 +11,25 @@ Green hydrogen plays a key role in the defosillization of base chemicals and ind
 Methanol synthesis has received considerable attention and is a significant topic in future global energy discussions. Creating a sustainable and cost-effective process relies on effective process design, control, and optimization. A crucial tool in this context is having an accurate process model. The choices made regarding the carbon source and reaction kinetics significantly impact the structure of the model used. Therefore, there is ongoing research to develop a comprehensive model for methanol synthesis. 
 
 ## Goal
-The interdependence of the management of water and energy is noted to date but not specifically addressed. While fresh water resources worldwide are already being overexploited, the global (green) energy transition will place additional stress on their recharge ability due to an increased application of PtX technologies. By deriviving open-access modells on various applications of the green hyrogen value-chain we want to secure a fast but water smart and sustainable energy transition. 
+The interdependence of the management of water and energy is noted to date but not specifically addressed. While fresh water resources worldwide are already being overexploited, the global (green) energy transition will place additional stress on their recharge ability due to an increased application of PtX technologies. By deriving open-access models for various applications of the green hydrogen value chain, we aim to secure a fast but water-smart and sustainable energy transition.
 
-DECHEMA has bundeled varous aspects on the energy trasition withregard on water managemnt in the [Water-for-X](https://dechema.de/Water_for_X.html) raodmap. 
+DECHEMA has bundled various aspects of the energy transition with regard to water management in the [Water-for-X](https://dechema.de/Water_for_X.html) roadmap.
+
 
 # Methanol Synthesis Modell
+Kinetic model included is *Vanden Bussche and Froment* based on Cu/ZnO/Al2O3 catalyst. The preferred temperature range for this catalyst is  between 210 - 250 °C. Specific kinetic parameters are also taken from the reference paper [4]. The reactor design parameters are calibrated and optimized for the specific model conditions.
 
 Input parameters: 
-* initial concentrations of CO, CO2, H2, H2O, CH3OH, and inert gases 
+* initial concentrations of CO, CO2, H2, H2O, CH3OH, inert gases 
 * technical specification of the reactor (dimensions)
 * catalyst mass, the operating temperature and pressure
 
-Kinetic model included is *Vanden Bussche and Froment* based on Cu/ZnO/Al2O3 catalyst.
-The preferred temperature range for this catalyst is  between 210 - 250 °C. Specific kinetic parameters are also taken from the reference paper [4]. The reactor design parameters are calibrated and optimized for the specific model conditions.
-
-<img align="left" height="100" src=Methanol_SS.png>
+<img align="left" height="300" src=Methanol_SS.png>
 
 ![Connection Blocks in Matlab](Simulinkmodel.png)
 
 
-**Source**
-
+# Source
 [1] Geres, R., Kohn, A., Lenz, S. C., Ausfelder, F., Bazzanella, A., Möller, A., (2019). Future Camp Climate GmbH, DECHEMA, Roadmap Chemie 2050 auf dem Weg zu einer treibhausgasneutralen chemischen Industrie in Deutschland, ISBN: 978-3-89746-223-6
 
 [2] The Future of Hydrogen, IEA, Technology report 2019
