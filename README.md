@@ -1,8 +1,7 @@
+<img align="right" width="150" height="150" src=w4x_logo_transparent_by_DECHEMA.png>
 # Water Management and the energy transition
 
 *We seek to stimulate a fast and sustainable energy transition while recognizing the critical value of water throughout the entire green hydrogen value chain.*
-<img align="right" width="100" height="100" src=w4x_logo_transparent_by_DECHEMA.png>
-![Water-for-X-Logo](w4x_logo_transparent_by_DECHEMA.png | width=100)
 
 ## Intro
 Green hydrogen plays a key role in the defosillization of base chemicals and industrial production [1]. Despite the global potential for green hydrogen, affordable production using wind or solar energy is limited, mostly to regions the global south [2]. Unfortunately, clean water, as main resource for green hydrogen, is finite and often scarce in these regions [3]. To address these challenges, the use of multiple water source must be considered. The entire process chain from hydrogen to follow-up derivates is referred to as Power-to-X (PtX). The German research project [H2Mare](https://www.wasserstoff-leitprojekte.de/leitprojekte/h2mare) has the goal to cover the entire PtX value chain, with an additional focus on water as the primary resource for green hydrogen. The project addresses technical aspects of offshore hydrogen and PtX production, as well as knowledge transfer and upscaling.
