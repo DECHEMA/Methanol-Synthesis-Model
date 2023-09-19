@@ -1,4 +1,4 @@
-<img align="right" width="150" height="150" src=w4x_logo_transparent_by_DECHEMA.png>
+<img align="right" width="150" height="150" src=images/w4x_logo_transparent_by_DECHEMA.png>
 
 # Water Management and the energy transition
 
@@ -24,9 +24,9 @@ Input parameters:
 * technical specification of the reactor (dimensions)
 * catalyst mass, the operating temperature and pressure
 
-<img align="left" height="300" src=Methanol_SS.png>
+<img align="left" height="300" src=images/Methanol_SS.png>
 
-![Connection Blocks in Matlab](Simulinkmodel.png)
+![Connection Blocks in Matlab](images/Simulinkmodel.png)
 
 
 # Source
