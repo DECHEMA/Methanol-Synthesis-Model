@@ -16,7 +16,7 @@ The interdependence of the management of water and energy is noted to date but n
 DECHEMA has bundled various aspects of the energy transition with regard to water management in the [Water-for-X](https://dechema.de/Water_for_X.html) roadmap.
 
 
-# Methanol Synthesis Modell
+# Methanol Synthesis Model
 Kinetic model included is *Vanden Bussche and Froment* based on Cu/ZnO/Al2O3 catalyst. The preferred temperature range for this catalyst is  between 210 - 250 °C. Specific kinetic parameters are also taken from the reference paper [4]. The reactor design parameters are calibrated and optimized for the specific model conditions.
 
 Input parameters: 
