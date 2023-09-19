@@ -1,4 +1,5 @@
 <img align="right" width="150" height="150" src=w4x_logo_transparent_by_DECHEMA.png>
+
 # Water Management and the energy transition
 
 *We seek to stimulate a fast and sustainable energy transition while recognizing the critical value of water throughout the entire green hydrogen value chain.*
