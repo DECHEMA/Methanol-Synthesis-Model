@@ -28,6 +28,9 @@ The preferred temperature range for this catalyst is  between 210 - 250 °C. Spe
 
 **Source**
 [1] Geres, R., Kohn, A., Lenz, S. C., Ausfelder, F., Bazzanella, A., Möller, A., (2019). Future Camp Climate GmbH, DECHEMA, Roadmap Chemie 2050 auf dem Weg zu einer treibhausgasneutralen chemischen Industrie in Deutschland, ISBN: 978-3-89746-223-6
+
 [2] The Future of Hydrogen, IEA, Technology report 2019
+
 [3] Water Risk Institute (WRI), Aqueduct (2019). Overall water risk
+
 [4] Outi Mäyrä, Kauko Leiviskä, Chapter 17 - Modeling in Methanol Synthesis, Elsevier, 2018, Pages 475-492, ISBN 9780444639035, https://doi.org/10.1016/B978-0-444-63903-5.00017-0, (https://www.sciencedirect.com/science/article/pii/B9780444639035000170)
