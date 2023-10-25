@@ -29,7 +29,7 @@ Input parameters:
 ![Connection Blocks in Matlab](images/Simulinkmodel.png)
 
 # Get in contact:
-<a href="mailto:water@dechema.de">Send us a Mail</a>
+<a href="mailto:&#119;&#097;&#116;&#101;&#114;&#064;&#100;&#101;&#099;&#104;&#101;&#109;&#097;&#046;&#100;&#101;">Send us a Mail</a>
 
 ---
 # Source
