@@ -28,7 +28,10 @@ Input parameters:
 
 ![Connection Blocks in Matlab](images/Simulinkmodel.png)
 
+# Get in contact:
+<a href="mailto:water@dechema.de">Send us a Mail</a>
 
+---
 # Source
 [1] Geres, R., Kohn, A., Lenz, S. C., Ausfelder, F., Bazzanella, A., Möller, A., (2019). Future Camp Climate GmbH, DECHEMA, Roadmap Chemie 2050 auf dem Weg zu einer treibhausgasneutralen chemischen Industrie in Deutschland, ISBN: 978-3-89746-223-6
 
